@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main(){
-    std::cout <<"Hello Git in C++" <<endl;
+    std::cout <<"Hello C++" <<endl;
 }
